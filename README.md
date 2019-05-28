@@ -1,4 +1,7 @@
-# demo1
+# morn-vue
+
+[![Build Status](https://travis-ci.com/morn-team/morn-vue.svg?branch=master)](https://travis-ci.com/morn-team/morn-vue)
+[![codecov](https://codecov.io/gh/morn-team/morn-vue/branch/master/graph/badge.svg)](https://codecov.io/gh/morn-team/morn-vue)
 
 ## Project setup
 ```
