@@ -33,5 +33,10 @@ module.exports = {
     'ts-jest': {
       babelConfig: true
     }
-  }
+  },
+  collectCoverage: true,
+  collectCoverageFrom: [
+    'src/*.{js,vue,ts}',
+    '!**/node_modules/**'
+  ]
 }
